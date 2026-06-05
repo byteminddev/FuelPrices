@@ -1,9 +1,9 @@
 {
   "weekRange": "8 a 14 de junho",
-  "gasoleoTrend": "down",
-  "gasoleoValue": "-12 cêntimos",
+  "gasoleoTrend": "up",
+  "gasoleoValue": "+4 cêntimos",
   "gasolinaTrend": "down",
-  "gasolinaValue": "-12 cêntimos",
+  "gasolinaValue": "-1 cêntimos",
   "sourceUrl": "https://www.acp.pt/o-clube/revista-acp/atualidade/detalhe/preco-dos-combustiveis-na-proxima-semana--8-a-14-de-junho",
-  "fetchedAt": "2026-06-05T06:18:31.901Z"
+  "fetchedAt": "2026-06-05T10:38:38.038Z"
 }
