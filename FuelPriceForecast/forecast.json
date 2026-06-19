@@ -1,9 +1,9 @@
 {
   "weekRange": "22 a 28 de junho",
   "gasoleoTrend": "down",
-  "gasoleoValue": "-3 cêntimos",
-  "gasolinaTrend": "up",
-  "gasolinaValue": "+0,5 cêntimo",
+  "gasoleoValue": "-12 cêntimos",
+  "gasolinaTrend": "down",
+  "gasolinaValue": "-6 cêntimos",
   "sourceUrl": "https://www.acp.pt/o-clube/revista-acp/atualidade/detalhe/preco-dos-combustiveis-na-proxima-semana--22-a-28-de-junho",
-  "fetchedAt": "2026-06-19T08:22:35.565Z"
+  "fetchedAt": "2026-06-19T12:38:38.848Z"
 }
