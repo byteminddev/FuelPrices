@@ -1,9 +1,9 @@
 {
-  "weekRange": "20 a 26 de julho",
+  "weekRange": "27 de julho a 2 de agosto",
   "gasoleoTrend": "up",
-  "gasoleoValue": "+13,5 cêntimos",
+  "gasoleoValue": "+ cêntimos",
   "gasolinaTrend": "up",
-  "gasolinaValue": "+6,5 cêntimos",
-  "sourceUrl": "https://www.acp.pt/o-clube/revista-acp/atualidade/detalhe/preco-dos-combustiveis-na-proxima-semana--20-a-26-de-julho",
-  "fetchedAt": "2026-07-19T23:42:58.319Z"
+  "gasolinaValue": "+ cêntimos",
+  "sourceUrl": "https://www.acp.pt/o-clube/revista-acp/atualidade/detalhe/preco-dos-combustiveis-na-proxima-semana--27-de-julho-a-2-de-agosto",
+  "fetchedAt": "2026-07-24T01:16:50.018Z"
 }
