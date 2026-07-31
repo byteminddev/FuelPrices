@@ -1,9 +1,9 @@
 {
   "weekRange": "3 a 9 de agosto",
   "gasoleoTrend": "up",
-  "gasoleoValue": "+9 cêntimos",
-  "gasolinaTrend": "up",
-  "gasolinaValue": "+3 cêntimos",
+  "gasoleoValue": "+2 cêntimos",
+  "gasolinaTrend": "down",
+  "gasolinaValue": "-1 cêntimo",
   "sourceUrl": "https://www.acp.pt/o-clube/revista-acp/atualidade/detalhe/preco-dos-combustiveis-na-proxima-semana--3-a-9-de-agosto",
-  "fetchedAt": "2026-07-31T08:24:49.172Z"
+  "fetchedAt": "2026-07-31T11:14:11.123Z"
 }
