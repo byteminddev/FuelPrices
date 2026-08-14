@@ -1,9 +1,9 @@
 {
   "weekRange": "17 a 23 de agosto",
-  "gasoleoTrend": "down",
-  "gasoleoValue": "-12 cêntimos",
-  "gasolinaTrend": "down",
-  "gasolinaValue": "-12,5 cêntimos",
+  "gasoleoTrend": "up",
+  "gasoleoValue": "+ 10 cêntimos",
+  "gasolinaTrend": "up",
+  "gasolinaValue": "+ 9 cêntimos",
   "sourceUrl": "https://www.acp.pt/o-clube/revista-acp/atualidade/detalhe/preco-dos-combustiveis-na-proxima-semana--17-a-23-de-agosto",
-  "fetchedAt": "2026-08-14T07:01:23.882Z"
+  "fetchedAt": "2026-08-14T08:54:11.823Z"
 }
