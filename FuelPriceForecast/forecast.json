@@ -1,9 +1,9 @@
 {
   "weekRange": "21 a 27 de setembro",
   "gasoleoTrend": "up",
-  "gasoleoValue": "+ 4 cêntimos",
-  "gasolinaTrend": "down",
-  "gasolinaValue": "- 6 cêntimos",
+  "gasoleoValue": "+ 8,5 cêntimos",
+  "gasolinaTrend": "up",
+  "gasolinaValue": "+ 6,5 cêntimos",
   "sourceUrl": "https://www.acp.pt/o-clube/revista-acp/atualidade/detalhe/preco-dos-combustiveis-na-proxima-semana--21-a-27-de-setembro",
-  "fetchedAt": "2026-09-18T06:44:07.044Z"
+  "fetchedAt": "2026-09-18T11:54:18.317Z"
 }
