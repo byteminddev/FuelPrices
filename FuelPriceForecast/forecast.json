@@ -1,9 +1,9 @@
 {
   "weekRange": "5 a 11 de outubro",
   "gasoleoTrend": "down",
-  "gasoleoValue": "- 6 cêntimos",
+  "gasoleoValue": "- 3 cêntimos",
   "gasolinaTrend": "down",
-  "gasolinaValue": "- 2 cêntimos",
+  "gasolinaValue": "- 3,5 cêntimos",
   "sourceUrl": "https://www.acp.pt/o-clube/revista-acp/atualidade/detalhe/preco-dos-combustiveis-na-proxima-semana--5-a-11-de-outubro",
-  "fetchedAt": "2026-10-02T02:39:23.603Z"
+  "fetchedAt": "2026-10-02T09:03:29.890Z"
 }
