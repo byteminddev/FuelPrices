@@ -1,9 +1,9 @@
 {
-  "weekRange": "5 a 11 de outubro",
+  "weekRange": "12 a 18 de outubro",
   "gasoleoTrend": "down",
-  "gasoleoValue": "- 3 cêntimos",
+  "gasoleoValue": "- 6 cêntimos",
   "gasolinaTrend": "down",
-  "gasolinaValue": "- 3,5 cêntimos",
-  "sourceUrl": "https://www.acp.pt/o-clube/revista-acp/atualidade/detalhe/preco-dos-combustiveis-na-proxima-semana--5-a-11-de-outubro",
-  "fetchedAt": "2026-10-04T23:38:23.998Z"
+  "gasolinaValue": "- 2 cêntimos",
+  "sourceUrl": "https://www.acp.pt/o-clube/revista-acp/atualidade/detalhe/preco-dos-combustiveis-na-proxima-semana--12-a-18-de-outubro",
+  "fetchedAt": "2026-10-09T03:11:52.614Z"
 }
