@@ -1,9 +1,9 @@
 {
   "weekRange": "2 a 8 de novembro",
   "gasoleoTrend": "up",
-  "gasoleoValue": "+ 1 cêntimo",
+  "gasoleoValue": "+ 2,5 cêntimos",
   "gasolinaTrend": "down",
-  "gasolinaValue": "- 8 cêntimos",
+  "gasolinaValue": "- 2,5 cêntimos",
   "sourceUrl": "https://www.acp.pt/o-clube/revista-acp/atualidade/detalhe/preco-dos-combustiveis-na-proxima-semana--2-a-8-de-novembro",
-  "fetchedAt": "2026-10-30T03:03:07.005Z"
+  "fetchedAt": "2026-10-30T10:29:38.264Z"
 }
