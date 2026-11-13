@@ -1,9 +1,9 @@
 {
   "weekRange": "16 a 22 de novembro",
   "gasoleoTrend": "down",
-  "gasoleoValue": "- 11 cêntimos",
+  "gasoleoValue": "- 6 cêntimos",
   "gasolinaTrend": "down",
-  "gasolinaValue": "- 12,5 cêntimos",
-  "sourceUrl": "https://www.acp.pt/o-clube/revista-acp/atualidade/detalhe/preco-dos-combustiveis-na-proxima-semana--16-a-22-de-novembro",
-  "fetchedAt": "2026-11-13T03:41:31.959Z"
+  "gasolinaValue": "- 2 cêntimos",
+  "sourceUrl": "https://www.acp.pt/o-clube/revista-acp/atualidade/detalhe/preco-dos-combustiveis-na-proxima-semana-16-a-22-de-novembro",
+  "fetchedAt": "2026-11-13T11:38:56.035Z"
 }
